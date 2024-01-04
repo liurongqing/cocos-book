@@ -1,3 +1,30 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[简介](README.md)
+
+- [游戏设计](design/README.md)
+  - [背包系统](design/inventory.md)
+  - [场景设计](design/screens.md)
+  - [采集物系统](design/collect.md)
+  - [掉落系统](design/drop.md)
+  - [道具系统](design/item.md)
+  - [公会系统](design/organization.md)
+  - [交互系统](design/interactive.md)
+  - [剧情设计](design/scenarios.md)
+  - [建造系统](design/build.md)
+  - [技能系统](design/ability.md)
+  - [任务系统](design/quest.md)
+  - [世界相关](design/world.md)
+  - [世界观设定](design/world-outlook.md)
+  - [刷新系统](design/refresh.md)
+  - [商店系统](design/shop.md)
+  - [实体设计](design/entitias.md)
+  - [拾取系统](design/pickup.md)
+  - [数值设定](design/numerical.md)
+  - [通用设计](design/common.md)
+  - [玩法设计](design/gameplay.md)
+  - [战斗系统](design/combat.md)
+  - [角色系统](design/character.md)
+
+
+[参考](reference.md)

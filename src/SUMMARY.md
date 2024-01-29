@@ -35,6 +35,6 @@
   - [玩法设计](design/gameplay.md)
   - [战斗系统](design/combat.md)
   - [角色系统](design/character.md)
-
+- [shader](shader/README.md)
 
 [参考](reference.md)
